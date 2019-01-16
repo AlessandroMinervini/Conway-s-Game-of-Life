@@ -61,15 +61,20 @@ You can pause the game, or if you try a new pattern, clear the board by pressing
 During the play mode, is possible change the frame rate, zoom out the board and switch to the History mode.
 
 #### Watch a simple game play!
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif)
+<p align="center">
+  <img width="700" height="544" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif">
+</p>
+![alt text]()
 
 #### Now draw and have fun!
 Below i want to give you some suggestions to try to draw your pattern!
 <p align="center">
   <img width="600" height="466" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png">
 </p>
-
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png)
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png)
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png)
+<p align="center">
+  <img width="600" height="594" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png">
+</p>
+<p align="center">
+  <img width="600" height="393" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png">
+</p>
 
