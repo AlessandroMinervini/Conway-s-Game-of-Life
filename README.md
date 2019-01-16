@@ -64,10 +64,10 @@ During the play mode, is possible change the frame rate, zoom out the board and 
 <p align="center">
   <img width="700" height="544" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif">
 </p>
-![alt text]()
 
 #### Now draw and have fun!
 Below i want to give you some suggestions to try to draw your pattern!
+
 <p align="center">
   <img width="600" height="466" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png">
 </p>
