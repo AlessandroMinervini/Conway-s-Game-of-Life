@@ -73,6 +73,7 @@ class View(QWidget):
         self.framerate.setGeometry(QtCore.QRect(130, 30, 121, 22))
         self.framerate.setOrientation(QtCore.Qt.Horizontal)
         self.framerate.setObjectName("framerate")
+        self.framerate.setValue(30)
         self.framerate.valueChanged.connect(self.setFramerate)
         self.Framerate_label = QtWidgets.QLabel(self.info_box)
         self.Framerate_label.setGeometry(QtCore.QRect(40, 30, 78, 20))
