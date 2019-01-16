@@ -63,14 +63,9 @@ During the play mode, is possible change the frame rate, zoom out the board and 
 #### Watch a simple game play!
 ![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif)
 
-
-
-
 #### Now draw and have fun!
+Below i want to give you some suggestions to try to draw your pattern!
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png)
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png)
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png)
 
-
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif)
-
-
-
-#### Now draw and have fun!
