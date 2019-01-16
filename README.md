@@ -55,6 +55,21 @@ The section of GUI code is was created with use of Qt Designer.
 - qdarkstyle (to display the dark window)
 
 ### How to play?
+To start playing, first of all you have to draw some cells, and draw your initial pattern!
+Then play start and watch the evolution of cells.
+You can pause the game, or if you try a new pattern, clear the board by pressing the clear button. If you draw a cell in a wrong place, delete it with the left button!
+During the play mode, is possible change the frame rate, zoom out the board and switch to the History mode.
+
+#### Watch a simple game play!
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif)
+
+
+
+
+#### Now draw and have fun!
+
+
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/gameplay2.gif)
 
 
 
