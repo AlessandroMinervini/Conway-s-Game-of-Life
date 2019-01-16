@@ -68,7 +68,8 @@ Below i want to give you some suggestions to try to draw your pattern!
 <p align="center">
   <img width="600" height="466" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png">
 </p>
-![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png = 600x466)
+
+![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png)
 ![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png)
 ![alt text](https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png)
 
