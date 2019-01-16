@@ -69,12 +69,12 @@ During the play mode, is possible change the frame rate, zoom out the board and 
 Below i want to give you some suggestions to try to draw your pattern!
 
 <p align="center">
-  <img width="600" height="466" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png">
+  <img width="300" height="195" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example.png">
 </p>
 <p align="center">
-  <img width="600" height="594" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png">
+  <img width="300" height="297" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example2.png">
 </p>
 <p align="center">
-  <img width="600" height="393" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png">
+  <img width="300" height="197" src="https://github.com/AlessandroMinervini/Conway-s-Game-of-Life/blob/master/images/example3.png">
 </p>
 
