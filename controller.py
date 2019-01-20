@@ -167,7 +167,7 @@ class Controller(QWidget):
     def zoomImage(self, rate):
         '''' Compute the indices of submatrix to show according to a zoom rate, and this make the zoom effect '''
         self.n_zoom = int(self.n_default + rate)
-        self.m_zoom = int(self.m_default * (100 + rate)) / 100
+        self.m_zoom = int(self.m_default * (100 + rate) / 100)
 
         self.n_start = int(self.n_zoom / 2)
         self.n_start = int((self.n / 2) - self.n_start)
