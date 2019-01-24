@@ -120,7 +120,7 @@ class Controller(QWidget):
     def generation(self):
         ''' Count number of generations and start the generations of cells every msec = frame rate '''
         if self.is_playing:
-            self.count_generations += 1
+            if np.sum(self.coords) > 0: self.count_generations += 1
             self.structure.setState(self.coords)
             self.coords = self.structure.getState()
             self.update_view(self.m_start, self.m_end, self.n_start, self.n_end)
