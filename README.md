@@ -58,9 +58,9 @@ The section of GUI code is was created with use of Qt Designer.
 ### Launch the program
 To play, launch the game!
 
-'''
+```python
 $ python3 view.py
-'''
+```
 
 ### How to play?
 To start playing, first of all you have to draw some cells, and draw your initial pattern!
