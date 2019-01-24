@@ -57,12 +57,6 @@ The section of GUI code is was created with use of Qt Designer.
 | PyQt5 | >= 5.9.1  | Yes
 | qdarkstyle  | >= 2.6.5  |Optional |
 
-- Python (>= 3.5)
-- Numpy
-- Scipy 
-- PyQt5
-- qdarkstyle (to display the dark window)
-
 ### Launch the program
 To play, launch the game!
 
